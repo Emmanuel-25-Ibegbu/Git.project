@@ -1,0 +1,13 @@
+[33mcommit 5d9a0859bc6f4db651b63b4c62a6796d472b1e3a[m
+Author: Emmanuel Ibegbu <emmmanuelibegbu25@gmail.com>
+Date:   Tue Sep 15 12:28:58 2026 +0100
+
+    Create src parent folder with components and assets child folders
+
+[1mdiff --git a/src/component/app.js b/src/component/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9177a8f[m
+[1m--- /dev/null[m
+[1m+++ b/src/component/app.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mgit status[
